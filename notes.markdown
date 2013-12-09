@@ -42,7 +42,13 @@ A lightweight semantic grid framework for Sass and Bourbon.
 
 # Static site generators
 
+## Lists
+
+#### [Static site generators](http://staticsitegenerators.net/)
+The definitive listing of Static Site Generators — all 210 of them!
+
 ## Jekyll
+
 #### [Jekyll](http://jekyllrb.com/)
 Jekyll is a simple, blog-aware, static site generator.
 #### [Liquid](https://github.com/Shopify/liquid/wiki)
@@ -58,6 +64,7 @@ A blogging framework for hackers.
 ## Wordpress
 
 #### [Documentation](http://codex.wordpress.org/Main_Page)
+#### [Function reference](http://codex.wordpress.org/Function_Reference)
 #### [Forge](http://forge.thethemefoundry.com/)
 Forge is a free command-line toolkit for bootstrapping and developing WordPress themes in a tidy environment using front-end languages like Sass, LESS, and CoffeeScript.
 
@@ -83,6 +90,12 @@ Collection of simple, semantic CSS grids.
 #### [Gridless](http://thatcoolguy.github.io/gridless-boilerplate/)
 #### [PocketGrid](http://arnaudleray.github.io/pocketgrid/)
 #### [Semantic Grid](http://semantic.gs/)
+
+## Frameworks
+
+### Lists
+
+#### [CSS frameworks comparison](http://usablica.github.io/front-end-frameworks/compare.html)
 
 ## Articles
 
