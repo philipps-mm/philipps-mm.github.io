@@ -12,19 +12,6 @@ Systematic architectures to keep CSS projects scalable and maintainable.
 #### [OOCSS](https://github.com/stubbornella/oocss/wiki)
 #### [BEM](http://bem.info/method/)
 
-## CSS Resets
-#### [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
-#### [Eric Meyers reset.css](http://meyerweb.com/eric/tools/css/reset/index.html)
-#### [Yahoo YUI reset](http://yuilibrary.com/yui/docs/cssreset/)
-#### [HTML5 Doctor reset](http://html5doctor.com/html-5-reset-stylesheet/)
-
-## Grids
-Collection of simple, semantic CSS grids.
-
-#### [Gridless](http://thatcoolguy.github.io/gridless-boilerplate/)
-#### [PocketGrid](http://arnaudleray.github.io/pocketgrid/)
-#### [Semantic Grid](http://semantic.gs/)
-
 
 # SASS
 
@@ -56,8 +43,8 @@ A lightweight semantic grid framework for Sass and Bourbon.
 # Static site generators
 
 ## Jekyll
-Jekyll is a simple, blog-aware, static site generator.
 #### [Jekyll](http://jekyllrb.com/)
+Jekyll is a simple, blog-aware, static site generator.
 #### [Liquid](https://github.com/Shopify/liquid/wiki)
 Liquid is a template engine which was crafted for very specific requirements
 #### [YAML](http://yaml.org/)
@@ -75,12 +62,28 @@ A blogging framework for hackers.
 Forge is a free command-line toolkit for bootstrapping and developing WordPress themes in a tidy environment using front-end languages like Sass, LESS, and CoffeeScript.
 
 
-# Text markup languages
+# Misc
+
+## Text markup languages
 
 #### [Textile](https://en.wikipedia.org/wiki/Textile_(markup_language)
 #### [Markdown](http://daringfireball.net/projects/markdown/syntax)
 
+## Resets
+CSS Resets.
 
-# Articles
+#### [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
+#### [Eric Meyers reset.css](http://meyerweb.com/eric/tools/css/reset/index.html)
+#### [Yahoo YUI reset](http://yuilibrary.com/yui/docs/cssreset/)
+#### [HTML5 Doctor reset](http://html5doctor.com/html-5-reset-stylesheet/)
+
+## Grids
+Collection of simple, semantic CSS grids.
+
+#### [Gridless](http://thatcoolguy.github.io/gridless-boilerplate/)
+#### [PocketGrid](http://arnaudleray.github.io/pocketgrid/)
+#### [Semantic Grid](http://semantic.gs/)
+
+## Articles
 
 #### [Seamless Image grid](http://css-tricks.com/seamless-responsive-photo-grid/)
