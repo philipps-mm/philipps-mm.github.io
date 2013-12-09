@@ -65,6 +65,7 @@ A blogging framework for hackers.
 
 #### [Documentation](http://codex.wordpress.org/Main_Page)
 #### [Function reference](http://codex.wordpress.org/Function_Reference)
+#### [Using Wordpress as a website backend](http://techthat.net/2010/05/19/using-wordpress-as-a-website-backend/)
 #### [Forge](http://forge.thethemefoundry.com/)
 Forge is a free command-line toolkit for bootstrapping and developing WordPress themes in a tidy environment using front-end languages like Sass, LESS, and CoffeeScript.
 
