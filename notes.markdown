@@ -23,8 +23,8 @@ An easily customizable grid. Sensible default typography. A typographic baseline
 Lots of CSS Recipes, made with Compass using Sass. Ready to use.
 
 # HTML preprocessors
-#### [Slim](https://slim-lang.com/)
-#### [HAML](https://haml.info/)
+#### [Slim](http://slim-lang.com/)
+#### [HAML](http://haml.info/)
 
 # Template engines
 #### [Django](https://www.djangoproject.com/)
