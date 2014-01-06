@@ -21,16 +21,23 @@ The compass core framework is a design-agnostic framework that provides common c
 An easily customizable grid. Sensible default typography. A typographic baseline. Perfected browser CSS reset. A stylesheet for printing. Powerful scripts for customization. Absolutely no bloat!
 #### [Compass recipes](http://compass-recipes.moox.fr/)
 Lots of CSS Recipes, made with Compass using Sass. Ready to use.
-### Bourbon
-#### [Bourbon](http://bourbon.io/)
-A simple and lightweight mixin library for Sass.
-#### [Bourbon Neat](http://bourbon.io/)
-A lightweight semantic grid framework for Sass and Bourbon.
+
+# HTML preprocessors
+#### [Slim](https://slim-lang.com/)
+#### [HAML](https://haml.info/)
+
+# Template engines
+#### [Django](https://www.djangoproject.com/)
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+#### [Jinja](http://jinja.pocoo.org/docs/)
+Jinja2 is a modern and designer friendly templating language for Python, modelled after Django’s templates.
 
 # Static site generators
 ## Lists
 #### [Static site generators](http://staticsitegenerators.net/)
 The definitive listing of Static Site Generators — all 210 of them!
+## Middleman
+#### [Middleman](http://middlemanapp.com/)
 ## DocPad
 #### [DocPad](http://docpad.org/)
 #### [Documentation](http://docpad.org/docs)
@@ -63,7 +70,7 @@ CSS Resets.
 #### [Yahoo YUI reset](http://yuilibrary.com/yui/docs/cssreset/)
 #### [HTML5 Doctor reset](http://html5doctor.com/html-5-reset-stylesheet/)
 ## Grids
-Collection of simple, semantic CSS grids.
+#### [Susy](http://susy.oddbird.net/)
 #### [Gridless](http://thatcoolguy.github.io/gridless-boilerplate/)
 #### [PocketGrid](http://arnaudleray.github.io/pocketgrid/)
 #### [Semantic Grid](http://semantic.gs/)
