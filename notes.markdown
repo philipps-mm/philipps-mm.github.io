@@ -79,3 +79,7 @@ CSS Resets.
 #### [CSS frameworks comparison](http://usablica.github.io/front-end-frameworks/compare.html)
 ## Articles
 #### [Seamless Image grid](http://css-tricks.com/seamless-responsive-photo-grid/)
+#### [Authoring fast-loading HTML pages](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Tips_for_authoring_fast-loading_HTML_pages)
+
+# SVG
+#### [The ultimate SVG guide](https://psdtowp.net/svg.html)
